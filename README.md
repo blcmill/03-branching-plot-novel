@@ -1,3 +1,6 @@
+# Branching Novel by Blake Miller
+
+This commit fulfills the requirements of the corresponding assignment in ILS-z399 Spring 2018 at Indiana University Bloomington.
 # 03-Branching-plot-novel
 
 Choose your adventure! Your assignment is to implement a branching-plot novel.
